@@ -1,0 +1,10 @@
+<Project>
+  <PropertyGroup>
+    <PaintNetDir Condition="'$(PaintNetDir)' == ''">C:\Program Files\paint.net</PaintNetDir>
+    <Authors>medullo</Authors>
+    <Product>medullo Paint.NET plugins</Product>
+    <Version>0.3.0</Version>
+    <Deterministic>true</Deterministic>
+    <PathMap>$(MSBuildThisFileDirectory)=/_/</PathMap>
+  </PropertyGroup>
+</Project>

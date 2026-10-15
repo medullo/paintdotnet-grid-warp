@@ -1,0 +1,16 @@
+**/bin/
+**/obj/
+/artifacts/
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.log
+*.dmp
+*.dll
+*.exe
+*.pdb
+*.zip
+.DS_Store
+Thumbs.db

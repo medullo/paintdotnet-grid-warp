@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Menu/Menu.csproj" />
+    <Project Path="src/NativeLab/NativeLab.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Checks/Checks.csproj" />
+  </Folder>
+</Solution>
